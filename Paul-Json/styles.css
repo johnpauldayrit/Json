@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+body{
+    background-image: url("./img/2.jpg");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 135%;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.sam:hover{
+    cursor: pointer;
+    background-color: #CEF3FB;
+}
